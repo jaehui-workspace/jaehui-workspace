@@ -1,4 +1,4 @@
-# Hi there, I'm Jaehui Park! 👋
+# Hi there, welcome to my GitHub Profile! 👋
 
 Welcome to my GitHub profile! I'm currently a second-year student in the DMIT Web Design and Development program at NAIT. Passionate about crafting engaging web experiences, I'm constantly honing my skills in front-end development, design principles, and user experience optimization.
 
